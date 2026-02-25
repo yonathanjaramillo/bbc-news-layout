@@ -1,5 +1,5 @@
 # BBC Homepage Clone (HTML Structure)
-![Project Preview] (preview.png)
+![Project Preview](preview.png.jpeg)
 
 This project recreates the structural layout of the BBC homepage using semantic HTML only.
 
